@@ -87,7 +87,7 @@ body.light {
 }
 
 .profile .header {
-    max-height: 40vh;
+    max-height: 30vh;
     width: 100%;
     border-radius: 25px 25px 0 0;
     clip-path: ellipse(100% 100% at 50% 0%);
@@ -109,7 +109,7 @@ body.light {
 
 .profile ul {
     list-style: none;
-    margin: 30px 0 80px 0;
+    margin: 30px 0 90px 0;
 }
 
 .profile ul li {
@@ -169,7 +169,7 @@ body.light {
 
 .content .wrapper {
     overflow: auto;
-    max-height: 700px;
+    max-height: 550px;
     padding-right: 10px;
     scroll-behavior: smooth;
 }
